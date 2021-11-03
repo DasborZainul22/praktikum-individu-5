@@ -1,6 +1,6 @@
 # praktikum-individu-5
 
-- kubus
+1. KUBUS
 
 - FLOWGORITHM
 
@@ -8,17 +8,17 @@
 ![KUBUS 2](https://user-images.githubusercontent.com/92985452/140091802-ae624e60-9fd9-4272-82af-d36fda3fce48.png)
 
 
-- Vscode
+- VSCODE
 
 ![vscode kubus](https://user-images.githubusercontent.com/92985452/140091885-b918639d-41c4-4f8e-9073-b883692fc6ea.png)
 
--BALOK
+2. BALOK
 
 - FLOWGORITHM
 
-![BALOK 1](https://user-images.githubusercontent.com/92985452/140091452-331cf397-feed-4999-93ba-e9883886d2a1.png)
-![BALOK 2](https://user-images.githubusercontent.com/92985452/140091517-960762eb-6470-40ef-99af-9a580f5436b6.png)
+![BALOK 2](https://user-images.githubusercontent.com/92985452/140092294-9ab4f8a2-ddc4-47be-98f4-4380ba527886.png)
 
+![BALOK 1](https://user-images.githubusercontent.com/92985452/140091452-331cf397-feed-4999-93ba-e9883886d2a1.png)
 
 - VSCODE
 
@@ -32,7 +32,7 @@ Lima segiempat
 
 
 
-- Vscode
+- VSCODE
 
 
 
